@@ -29,7 +29,7 @@ If you can't or don't want to run and install locally, you can work with this re
 1. Clone the repo
 
 ```
-git clone https://github.com/PatrickAlphaC/html-fund-me-fcc](https://github.com/Rasta669/html_fundme.git
+git clone https://github.com/Rasta669/html_fundme.git
 cd html_fundme
 ```
 
@@ -47,7 +47,7 @@ yarn http-server
 
 And you should see a small button that says "connect".
 
-![Connect](connect.png)
+![Connect](https://github.com/PatrickAlphaC/html-fund-me-fcc/blob/main/connect.png)
 
 Hit it, and you should see metamask pop up.
 
