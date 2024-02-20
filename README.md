@@ -81,6 +81,6 @@ In the output of the above command, take one of the private key accounts and [im
 
 Additionally, add your localhost with chainid 31337 to your metamask.
 
-5. Input an amount in the text box, and hit `fund` button after connecting
-6. To withdraw, the signer has to be the contract deployer, so on the hardhat node terminal, copy the private keys and import the account to metamask and enjoy.
+4. Input an amount in the text box, and hit `fund` button after connecting
+5. To withdraw, the signer has to be the contract deployer, so on the hardhat node terminal, copy the private keys and import the account to metamask and enjoy.
 
